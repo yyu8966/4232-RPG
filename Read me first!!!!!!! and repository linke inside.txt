@@ -1,0 +1,17 @@
+Repository link：           https://github.com/yyu8966/4232-RPG.git
+
+About the video, since it's an RPG so the video length will be long. 
+So I used software for editing. The edited video will have a watermark. 
+I will upload the unedited video along with the edited video.
+
+There is also a deployed version of the game as well as an undeployed version within github. 
+Due to issues with the game engine it may be difficult to view the code.
+The deployed version of the game can be downloaded and played directly.
+
+The cheat box will be moved to the town. in the deployed version.
+
+Z is the OK button and X is the menu. arrow key control.
+Again, you can use the mouse to operate, left click to determine and right click to return.
+There are a series of quests at the tavern owner.
+
+

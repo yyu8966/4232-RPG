@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"MC","characterIndex":0,"characterName":"MC","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"MC","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Nick","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"MC","characterIndex":0,"characterName":"MC","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"MC","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":10,"maxLevel":99,"name":"Nick","nickname":"","note":"","profile":""}
 ]
