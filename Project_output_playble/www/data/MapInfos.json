@@ -1,0 +1,22 @@
+[
+null,
+{"id":1,"expanded":true,"name":"起始之地","order":1,"parentId":0,"scrollX":819,"scrollY":465},
+{"id":2,"expanded":true,"name":"森林","order":2,"parentId":1,"scrollX":811,"scrollY":545},
+{"id":3,"expanded":true,"name":"新手村小镇","order":3,"parentId":1,"scrollX":1104,"scrollY":1463},
+{"id":4,"expanded":false,"name":"自宅","order":14,"parentId":1,"scrollX":819,"scrollY":465},
+{"id":5,"expanded":false,"name":"民居 2","order":4,"parentId":3,"scrollX":819,"scrollY":465},
+{"id":6,"expanded":false,"name":"旅馆 1F","order":5,"parentId":3,"scrollX":811,"scrollY":495},
+{"id":7,"expanded":false,"name":"旅馆 2F","order":6,"parentId":6,"scrollX":819,"scrollY":465},
+{"id":8,"expanded":false,"name":"仓库","order":7,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"酒馆","order":8,"parentId":3,"scrollX":819,"scrollY":465},
+{"id":10,"expanded":false,"name":"物品商店","order":9,"parentId":3,"scrollX":819,"scrollY":465},
+{"id":11,"expanded":false,"name":"武器商店","order":10,"parentId":3,"scrollX":819,"scrollY":465},
+{"id":12,"expanded":false,"name":"护甲商店","order":11,"parentId":3,"scrollX":819,"scrollY":465},
+{"id":13,"expanded":false,"name":"神秘商店","order":12,"parentId":3,"scrollX":819,"scrollY":465},
+{"id":14,"expanded":false,"name":"宅邸","order":13,"parentId":3,"scrollX":986,"scrollY":724},
+{"id":15,"expanded":true,"name":"迷失森林","order":15,"parentId":0,"scrollX":1097,"scrollY":2423},
+{"id":16,"expanded":false,"name":"森林","order":16,"parentId":15,"scrollX":809,"scrollY":980.5},
+{"id":17,"expanded":true,"name":"遗迹","order":17,"parentId":15,"scrollX":811,"scrollY":735},
+{"id":18,"expanded":false,"name":"石洞","order":18,"parentId":15,"scrollX":1104,"scrollY":983},
+{"id":19,"expanded":false,"name":"转移空间","order":19,"parentId":15,"scrollX":811,"scrollY":495}
+]
